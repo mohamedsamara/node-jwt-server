@@ -21,17 +21,17 @@ JWT Rest API with json-server
 ## Start development
 
 ```
-$ yarn run dev
+yarn run dev
 ```
 
 ## Simple build for production
 
 ```
-$ yarn build
+yarn build
 ```
 
 ## Run build for production
 
 ```
-$ yarn start
+yarn start
 ```
